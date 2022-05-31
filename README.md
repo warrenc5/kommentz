@@ -6,6 +6,7 @@ A set of comments used in code
 * generally at the end of another line of code
 * comment name is suffixed by :
 * no initials or dates
+* no feature start/end comments
 
 # TECHDEBT: this code has created immesurable techdebt and must be included in a refactor somehow.
 # IDEA: I wanted to do it differently but didn't have some library/dependency/knowledge available
